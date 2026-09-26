@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="163" dy="97" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -391,10 +391,10 @@
           <mxGeometry x="636" y="735" width="169" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-195" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;集中/独立配置差额&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="636" y="758" width="169" height="20" as="geometry" />
+          <mxGeometry x="636" y="759" width="169" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-197" value="运输工作量均衡" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="636" y="781" width="169" height="20" as="geometry" />
+          <mxGeometry x="636" y="783" width="169" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
