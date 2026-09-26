@@ -363,8 +363,8 @@
             <mxPoint x="465" y="701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-181" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;通信约束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="464" y="675" width="80" height="30" as="geometry" />
+        <mxCell id="INk0VPhDM2ycM8F626pA-181" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;固定所选日程与原保障安排&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="675" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
