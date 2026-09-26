@@ -19,7 +19,7 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输出：安全载荷与单点组批方案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="INk0VPhDM2ycM8F626pA-57" target="INk0VPhDM2ycM8F626pA-22">
+        <mxCell id="INk0VPhDM2ycM8F626pA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="INk0VPhDM2ycM8F626pA-21" target="INk0VPhDM2ycM8F626pA-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=#006600;" vertex="1" parent="1">
@@ -111,14 +111,8 @@
             <mxPoint x="276" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="INk0VPhDM2ycM8F626pA-21" target="INk0VPhDM2ycM8F626pA-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="455" as="sourcePoint" />
-            <mxPoint x="480" y="455" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;加入&lt;/font&gt;&lt;div style=&quot;font-size: 14px; line-height: 260%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;通信约束&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="413" y="530" width="80" height="70" as="geometry" />
+          <mxGeometry x="413" y="430" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
