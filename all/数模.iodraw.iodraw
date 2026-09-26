@@ -243,8 +243,8 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-123" value="唯一覆盖" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="161.75" y="469" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-124" value="唯一覆盖" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="171.75" y="479" width="80" height="26" as="geometry" />
+        <mxCell id="INk0VPhDM2ycM8F626pA-124" value="硬截止" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="161" y="506" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-125" value="唯一覆盖" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="161" y="542" width="80" height="26" as="geometry" />
