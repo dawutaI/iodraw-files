@@ -189,7 +189,7 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.229;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endSize=3;" edge="1" parent="1" source="INk0VPhDM2ycM8F626pA-82" target="INk0VPhDM2ycM8F626pA-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.77;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endSize=3;" edge="1" parent="1" source="INk0VPhDM2ycM8F626pA-86" target="INk0VPhDM2ycM8F626pA-66">
+        <mxCell id="INk0VPhDM2ycM8F626pA-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.77;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endSize=3;startSize=5;" edge="1" parent="1" source="INk0VPhDM2ycM8F626pA-86" target="INk0VPhDM2ycM8F626pA-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
