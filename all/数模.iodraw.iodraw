@@ -148,8 +148,11 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-75" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;接入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="INk0VPhDM2ycM8F626pA-76" value="回传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="825" y="308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INk0VPhDM2ycM8F626pA-77" value="回传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="827" y="351" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
