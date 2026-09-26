@@ -73,7 +73,7 @@
             <mxPoint x="339" y="184.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-39" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="INk0VPhDM2ycM8F626pA-39" value="航段距离与高程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="196" y="143.5" width="120" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-40" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
