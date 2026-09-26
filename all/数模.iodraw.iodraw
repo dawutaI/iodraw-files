@@ -234,7 +234,7 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-120" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeWidth=2;strokeColor=#006600;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="153.5" y="437" width="96.5" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-121" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;输出：联合日程与通信保障关系&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="INk0VPhDM2ycM8F626pA-121" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;输出：运输日期与资源分配&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="150" y="592" width="240" height="28" as="geometry" />
         </mxCell>
       </root>
