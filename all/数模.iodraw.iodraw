@@ -206,8 +206,8 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-103" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;能源充电&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="722" y="568" width="84" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-104" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;运输-中继联合调度&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;CP-SAT分层求解&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="507" y="597" width="304" height="45" as="geometry" />
+        <mxCell id="INk0VPhDM2ycM8F626pA-104" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;输出：联合日程与通信保障关系&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="507" y="597" width="304" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
