@@ -225,7 +225,7 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-116" value="访问顺序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="314" y="344.5" width="78" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-117" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="INk0VPhDM2ycM8F626pA-117" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
           <mxGeometry x="134" y="396" width="274" height="234" as="geometry" />
         </mxCell>
       </root>
