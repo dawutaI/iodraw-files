@@ -301,16 +301,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-152" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="133" y="729" width="199" height="81" as="geometry" />
+          <mxGeometry x="133" y="729" width="202" height="81" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-153" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;输出：分区方案 + 专属资源配置 + 库存缺口&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="133" y="816" width="677" height="28" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-155" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="364.5" y="729" width="214.5" height="81" as="geometry" />
+          <mxGeometry x="367.5" y="729" width="209" height="81" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-156" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="602" y="729" width="207" height="81" as="geometry" />
+          <mxGeometry x="602" y="729" width="202" height="81" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-158" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=15;endSize=3.297222222222222;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
