@@ -372,14 +372,14 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-186" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;两组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="481" y="782" width="73" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-187" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;两组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="364" y="787" width="73" height="20" as="geometry" />
+        <mxCell id="INk0VPhDM2ycM8F626pA-187" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;运输机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="357" y="807" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-188" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;两组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="481" y="807" width="73" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-189" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;两组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="455" y="802" width="73" height="20" as="geometry" />
+          <mxGeometry x="425" y="807" width="73" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
