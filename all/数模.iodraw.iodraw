@@ -56,7 +56,7 @@
           <mxGeometry x="480" y="279" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-27" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;问题3：&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;运输与中继联合调度&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="289" width="270" height="30" as="geometry" />
+          <mxGeometry x="300" y="678" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
