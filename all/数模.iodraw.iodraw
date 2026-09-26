@@ -246,8 +246,11 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-124" value="硬截止" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="161" y="506" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-125" value="唯一覆盖" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
+        <mxCell id="INk0VPhDM2ycM8F626pA-125" value="机/电池占用" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="161" y="542" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="INk0VPhDM2ycM8F626pA-126" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;运输-中继联合调度&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;CP-SAT分层求解&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="282" y="497" width="220" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
