@@ -229,7 +229,10 @@
           <mxGeometry x="134" y="398" width="274" height="230" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-118" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;集合划分与资源调度&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="171" y="402" width="180" height="30" as="geometry" />
+          <mxGeometry x="177" y="400" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INk0VPhDM2ycM8F626pA-120" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeWidth=2;strokeColor=#006600;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="153.5" y="437" width="133" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
