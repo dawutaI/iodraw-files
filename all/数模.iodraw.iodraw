@@ -214,19 +214,19 @@
           <mxGeometry x="136" y="314" width="284" height="67" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-109" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;候选架次构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="201" y="313.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="211" y="313.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-112" value="货箱组批" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="150" y="345" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-115" value="机型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="241" y="345" width="62" height="26" as="geometry" />
+          <mxGeometry x="246" y="345" width="62" height="26" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-116" value="访问顺序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="324" y="345.5" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-117" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="133" y="400" width="286" height="230" as="geometry" />
+          <mxGeometry x="133" y="390" width="286" height="238" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-118" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;集合划分与资源调度&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="177" y="400" width="180" height="30" as="geometry" />
