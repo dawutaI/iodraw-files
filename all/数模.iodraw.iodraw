@@ -110,16 +110,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-65" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="491" y="309" width="320" height="121" as="geometry" />
+          <mxGeometry x="491" y="309" width="320" height="111" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-66" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="133" y="481" width="304" height="150" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-67" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;网关G01&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="671" y="380" width="80" height="30" as="geometry" />
+          <mxGeometry x="676" y="380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-68" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;运输机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="549" y="380" width="80" height="30" as="geometry" />
+          <mxGeometry x="545" y="380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-69" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;中继&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="606" y="319" width="80" height="30" as="geometry" />
