@@ -382,7 +382,10 @@
           <mxGeometry x="407" y="810" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-191" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;区间峰值核算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="781" width="170" height="22" as="geometry" />
+          <mxGeometry x="382" y="782" width="170" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="INk0VPhDM2ycM8F626pA-192" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;区间峰值核算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="809" width="170" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
