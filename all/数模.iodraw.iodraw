@@ -367,7 +367,7 @@
           <mxGeometry x="466" y="675" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-185" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;组内中继独立执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="425" y="760" width="125" height="20" as="geometry" />
+          <mxGeometry x="418" y="760" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-186" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;能源组件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="545" y="807" width="65" height="20" as="geometry" />
@@ -380,6 +380,9 @@
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-189" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;中继机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="411" y="807" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="INk0VPhDM2ycM8F626pA-191" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;架次选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267" y="449" width="73" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
