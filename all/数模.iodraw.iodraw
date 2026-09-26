@@ -273,6 +273,9 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-131" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;输出：联合日程与通信保障关系&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="505" y="608" width="304" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="INk0VPhDM2ycM8F626pA-142" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
