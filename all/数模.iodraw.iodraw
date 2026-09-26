@@ -115,7 +115,7 @@
           <mxGeometry x="506" y="311" width="299" height="91" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-66" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;运输-中继联合调度&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;CP-SAT分层求解&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="543" y="513" width="220" height="45" as="geometry" />
+          <mxGeometry x="549" y="513" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-67" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;网关G01&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="691" y="373" width="80" height="23" as="geometry" />
@@ -185,11 +185,6 @@
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-91" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;通信约束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="418" y="460" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.162;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endSize=2;" edge="1" parent="1" target="INk0VPhDM2ycM8F626pA-66">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="576" y="500" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.229;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endSize=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
