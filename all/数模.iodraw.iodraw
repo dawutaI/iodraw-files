@@ -324,8 +324,8 @@
             <mxPoint x="602" y="766.9900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-163" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;候选架次构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="221" y="323.5" width="130" height="30" as="geometry" />
+        <mxCell id="INk0VPhDM2ycM8F626pA-163" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;任务分区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="189" y="729" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
