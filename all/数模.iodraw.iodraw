@@ -331,7 +331,7 @@
           <mxGeometry x="666" y="729" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;两组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="770" width="89" height="30" as="geometry" />
+          <mxGeometry x="141" y="770" width="89" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
