@@ -35,7 +35,7 @@
           <mxGeometry x="136" y="279" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-26" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;问题3：&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;运输与中继联合调度&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="528" y="279" width="270" height="30" as="geometry" />
+          <mxGeometry x="520" y="278" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-28" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;strokeWidth=2;strokeColor=#006600;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="697" y="130" width="117.5" height="111" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-65" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="504" y="309" width="306" height="131" as="geometry" />
+          <mxGeometry x="491" y="309" width="320" height="121" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-66" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="133" y="481" width="304" height="150" as="geometry" />
