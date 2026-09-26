@@ -325,7 +325,7 @@
           <mxGeometry x="187" y="733" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-164" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;独立资源配置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="417" y="734" width="110" height="30" as="geometry" />
+          <mxGeometry x="412" y="733" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-165" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;方案评价&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="666" y="734" width="80" height="30" as="geometry" />
@@ -365,6 +365,9 @@
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-181" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;固定所选日程与原保障安排&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="466" y="675" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INk0VPhDM2ycM8F626pA-185" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;两组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="158" y="817" width="73" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
