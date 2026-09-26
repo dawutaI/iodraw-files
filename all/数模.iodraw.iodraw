@@ -331,19 +331,19 @@
           <mxGeometry x="666" y="729" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;两组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="147" y="802" width="78" height="20" as="geometry" />
+          <mxGeometry x="147" y="802" width="73" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-166" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;三组枚举&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="241" y="802" width="79" height="20" as="geometry" />
+          <mxGeometry x="232.75" y="802" width="79" height="20" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-169" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="146.5" y="755.5" width="173.5" height="41" as="geometry" />
+          <mxGeometry x="146.5" y="755.5" width="153.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-170" value="不可拆分单元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="772" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-171" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="182.5" y="759" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
