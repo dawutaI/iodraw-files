@@ -255,8 +255,8 @@
         <mxCell id="INk0VPhDM2ycM8F626pA-127" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;连续覆盖&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="439" width="84" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="INk0VPhDM2ycM8F626pA-128" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;连续覆盖&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366" y="445" width="84" height="24" as="geometry" />
+        <mxCell id="INk0VPhDM2ycM8F626pA-128" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;开始时刻&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="439" width="84" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
