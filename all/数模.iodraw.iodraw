@@ -83,7 +83,7 @@
           <mxGeometry x="357" y="155.25" width="80" height="39" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-42" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;爬升附加&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;能耗&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="450" y="155.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="155.25" width="80" height="39" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-43" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;能耗计算&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="385" y="128.25" width="110" height="30" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="175" y="143.5" width="15" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-45" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
-          <mxGeometry x="398" y="199" width="92" height="5" as="geometry" />
+          <mxGeometry x="398" y="194.25" width="92" height="5" as="geometry" />
         </mxCell>
         <mxCell id="INk0VPhDM2ycM8F626pA-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.507;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="INk0VPhDM2ycM8F626pA-45" target="INk0VPhDM2ycM8F626pA-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
